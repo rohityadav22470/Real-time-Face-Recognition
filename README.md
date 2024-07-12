@@ -4,7 +4,7 @@
 * [Overview](#Overview)
 * [Features](#Features)
 * [Installation](#Installation)
-* [Technologies used](#Technologiesused)
+* [Technologies used](#Technologies-used)
 * [Credits](#Credits)
 
 ## Overview
