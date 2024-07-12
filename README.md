@@ -1,7 +1,11 @@
 # Real-time-Face-Recognition
 
 ## Contents
-* [Overview](## Overview)
+* [Overview](#Overview)
+* [Features](#Features)
+* [Installation](#Installation)
+* [Technologies used](#Technologies used)
+* [Credits](#Credits)
 
 ## Overview
 This project is a real-time face recognition application built using OpenCV, the face recognition library, and the Flask web framework. The application captures video from a webcam, detects faces in real-time, and recognizes known faces using a pre-trained model.
